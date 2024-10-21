@@ -26,3 +26,7 @@ BothFrontendAndBackendrunSimultaneously invscode
 ![2024-07-21 at 22 21 12_4e316131](https://github.com/user-attachments/assets/eb51fc99-668b-42e0-a29f-d777e7e03088)
 ![2024-07-21 at 22 22 00_d2107acd](https://github.com/user-attachments/assets/9ee53a16-d620-4148-baa9-e56f30fea963)
 ![2024-07-21 at 22 22 34_b50806d8](https://github.com/user-attachments/assets/86c0ba63-afff-42aa-8dbd-4208071fde4b)
+
+
+
+---------------------------------------THANK YOU FOR WATCHING😊---------------------------------------------------
