@@ -5,7 +5,8 @@ LanguagesUsed:
 Working:
 1. Spring Boot
 2. React
-3. MysqlWorkBench
+4. MysqlWorkBench
+5. postman
 1. Open Mysql workbench and create database profilemanagementsystem.
 2. Run The Backend Spring Boot In Vscode. Open AndRunTheProgram
 profilemanagementsystemApplication.java AfterSuccessfullyRunning.
@@ -18,6 +19,9 @@ Entercd Frontend PressEnter.
    
 Note:
 BothFrontendAndBackendrunSimultaneously invscode
+
+
+
 ![2024-07-21 at 22 17 13_0b102641](https://github.com/user-attachments/assets/2e8ca2d0-fb55-4508-b5e0-3d9bc3f69c28)
 ![2024-07-21 at 22 18 14_2e37bcbb](https://github.com/user-attachments/assets/28eb1fd5-f682-4b30-9b04-fbe32124d02a)
 ![2024-07-21 at 22 18 40_24919d3e](https://github.com/user-attachments/assets/dfb2aa4b-66f9-47c9-8a70-df781e0f56cd)
@@ -29,4 +33,4 @@ BothFrontendAndBackendrunSimultaneously invscode
 
 
 
----------------------------------------THANK YOU FOR WATCHING😊---------------------------------------------------
+-----------------------------------------THANK YOU FOR WATCHING😊--------------------------------------------------
